@@ -1,0 +1,12 @@
+You will need to download these libraries: 
+
+To download Selenium run:  
+pip install selenium
+
+The time library is already installed with Python3 
+
+Chrome driver: 
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+Check you current Chrome version and operating system. 
+This bot prefers Chrome version 86.0.4240.22
+
